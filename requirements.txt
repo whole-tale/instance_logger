@@ -1,2 +1,3 @@
 starlette
 uvicorn
+docker>=2.3.0
